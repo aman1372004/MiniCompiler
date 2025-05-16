@@ -37,6 +37,6 @@ This is a Mini Compiler project implemented in C/C++ as part of my coursework. T
 
 ### Building the Compiler
 
-1. Navigate to the `phase2` directory:
+1. Navigate to the `lex_parse` directory:
    ```bash
-   cd phase2
+   cd lex_parse
