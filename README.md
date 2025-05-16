@@ -8,7 +8,7 @@ This is a Mini Compiler project implemented in C/C++ as part of my coursework. T
 
 ## Project Structure
 
-- `phase2/` — Contains the lexical analyzer and parser implementation using Flex and Bison.
+- `lex_parse` — Contains the lexical analyzer and parser implementation using Flex and Bison.
 - `ast/` — Implements the Abstract Syntax Tree creation and traversal.
 - `code_opt/` — Code optimization phase to improve generated code.
 - `code_gen/` — Code generation modules (if implemented).
